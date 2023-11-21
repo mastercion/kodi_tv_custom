@@ -2,6 +2,10 @@
 
 This document provides a comprehensive guide for setting up the Kodi TV Custom configuration. Follow these steps to enjoy a seamless IPTV experience on Kodi.
 
+## Acknowledgments
+
+This project utilizes code from the [jnk22/kodinerds-iptv](https://github.com/jnk22/kodinerds-iptv) repository. We gratefully acknowledge their contributions to the open-source community.
+
 # Channels currently added
 - [x] Das Erste
 - [x] ZDF HD
