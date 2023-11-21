@@ -2,6 +2,15 @@
 
 This document provides a comprehensive guide for setting up the Kodi TV Custom configuration. Follow these steps to enjoy a seamless IPTV experience on Kodi.
 
+# Channels currently added
+- [x] Das Erste
+- [x] ZDF HD
+- [x] 3sat
+- [x] ARTE HD
+- [x] hse24
+- [x] QVC
+- [x] Nickelodeon
+
 ## Installation and Configuration
 
 ### Step 1: Install Kodi
