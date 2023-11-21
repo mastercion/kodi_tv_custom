@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="QVC" tvg-id="QVC.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1 tvg-name="hse24" tvg-id="hse.de" group-title="Teleshopping" tvg-logo="
+https://raw.githubusercontent.com/mastercion/kodi_tv_custom/master/logo/HSE_TV_Logo.svg.png",hse24
+https://hse24.akamaized.net/hls/live/2006663/hse24/master_576p25.m3u8
