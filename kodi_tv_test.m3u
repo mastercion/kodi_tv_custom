@@ -7,6 +7,8 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-name="RTL2" tvg-id="RTL2.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/mastercion/kodi_tv_custom/main/logo/512px-RTLZWEI_Logo_2019.png",RTL2
+https://s6.hopslan.com/rtl2x1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="hse24" tvg-id="hse.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/mastercion/kodi_tv_custom/main/logo/HSE_TV_Logo.png",hse24
 https://hse24.akamaized.net/hls/live/2006663/hse24/master_576p25.m3u8
 #EXTINF:-1 tvg-name="QVC" tvg-id="QVC.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC
