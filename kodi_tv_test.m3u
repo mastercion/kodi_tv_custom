@@ -11,5 +11,9 @@ https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 https://hse24.akamaized.net/hls/live/2006663/hse24/master_576p25.m3u8
 #EXTINF:-1 tvg-name="QVC" tvg-id="QVC.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1 tvg-name="QVC Style" tvg-id="QVC.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/mastercion/kodi_tv_custom/main/logo/qvc_style.png",QVC Style
+https://fr5-v6-5-dash-live.zahs.tv/qvc_beauty_de/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNZZHFDEEOJUGAYUINZUGAYDALJTIY2EIOBZIRBTSMZUG4YTQOKBEZSHE3J5MV4HA2LSMF2GS33OHIYTOMBQGY4DQNJUG4TG2YLYOJQXIZJ5GE3DAMBGNVUW44TBORST2OBQGATHG2LHHUYTKXZWGIZGENZTMYZDAYZYGJSWEY3BGY4DQMLFG43TOODFG5STKOBSMITHMPJQ
+#EXTINF:-1 tvg-name="QVC Zwei" tvg-id="QVC.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/mastercion/kodi_tv_custom/main/logo/Logo_QVC2_DE_onAir_2020.png",QVC Zwei
+https://fr5-v6-5-dash-live.zahs.tv/qvcplus/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNZZHFDEEMBRIM2UKOJTGQYDSLJUHEYDANBVGY4DCRJUIVAUENZYEZSHE3J5MV4HA2LSMF2GS33OHIYTOMBQGY4DOOJRHETG2YLYOJQXIZJ5GE3DAMBGNVUW44TBORST2OBQGATHG2LHHU4V6YJZHBRDQYZQMJTGGMZUGIZTAYZUGZTDCMBTHE2TIZJVGI3DEZDBEZ3D2MA
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
