@@ -12,7 +12,11 @@ This project utilizes code from the [jnk22/kodinerds-iptv](https://github.com/jn
 - [x] 3sat
 - [x] ARTE HD
 - [x] hse24
+- [x] hse Trend
+- [x] hse Extra
 - [x] QVC
+- [x] QVC Zwei
+- [x] QVC Style
 - [x] Nickelodeon
 
 ## Installation and Configuration
