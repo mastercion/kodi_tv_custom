@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="QVC Zwei" tvg-id="QVCZwei.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/mastercion/kodi_tv_custom/main/logo/Logo_QVC2_DE_onAir_2020.png",QVC Zwei
-https://fra3-5-dash-live.zahs.tv/qvc_beauty_de/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNZZIUYEIOJYGIYDSMRSIQZTQLJTGBATOMBWIZBEGRBUINAUGMKBEZSHE3J5MV4HA2LSMF2GS33OHIYTOMBRHAZTIMRVGYTG2YLYOJQXIZJ5GE3DAMBGNVUW44TBORST2OBQGATHG2LHHUYTKXZWGNQWIYZUMI3WGM3CMNQTSNRRMQ3TKNBWGU4TOOJWMIYGCZRXMITHMPJQ
+https://fra3-0-dash-live.zahs.tv/qvc_beauty_de/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNZZIUZDMOJVGZCDKQZQGRDDMLJSG5BTCNBYINAUCMKBIU2TONZXEZSHE3J5MV4HA2LSMF2GS33OHIYTOMBRHA3DCNZTGITG2YLYOJQXIZJ5GE3DAMBGNVUW44TBORST2OBQGATHG2LHHUYTKXZTGZRTGZDDGUYWENDBGFSDCYLFGA3GGNZWHEYGIMRQGMZTGYLDMQTHMPJQ
 #EXTINF:-1 tvg-name="hse24" tvg-id="hse.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/mastercion/kodi_tv_custom/main/logo/HSE_TV_Logo.png",hse24
 https://hse24.akamaized.net/hls/live/2006663/hse24/master_576p25.m3u8
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
@@ -12,8 +12,8 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1 tvg-name="HSE Extra" tvg-id="hseExtra.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/mastercion/kodi_tv_custom/main/logo/HSE_TV_Extra_logo.png",HSE Extra
 https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/master_576p25.m3u8
 #EXTINF:-1 tvg-name="QVC" tvg-id="QVC.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",QVC
-https://fra3-5-dash-live.zahs.tv/qvc_germany/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNZZIUYEIOCFGZATKMKGGA3EKLJTGIZTSQZYIMZEKMCDGU4DSQSBEZSHE3J5MV4HA2LSMF2GS33OHIYTOMBRHAZTIMRRGQTG2YLYOJQXIZJ5GE3DAMBGNVUW44TBORST2OBQGATHG2LHHUYTGX3DG4ZTMYRTGQ2TKZRSGBSTSNZVGNRGINBXGA4DINZSMVTDCZBXGATHMPJQ
+https://fra3-5-dash-live.zahs.tv/qvc_germany/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNZZIUZDMOCEGQ4DMQRSIJAUGLJRGY4DMQSFHE4UGQSBIVBUKNCDEZSHE3J5MV4HA2LSMF2GS33OHIYTOMBRHA3DCNRZG4TG2YLYOJQXIZJ5GE3DAMBGNVUW44TBORST2OBQGATHG2LHHUYTGXZVHBQTKZJQMNSTMYJZMQ3TMMTDGA2DCNJYGJSGGMLGHAYWCZLFGATHMPJQ
 #EXTINF:-1 tvg-name="HSE Trend" tvg-id="hseTrend.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/mastercion/kodi_tv_custom/main/logo/HSE_TV_Trend_Logo.png",HSE Trend
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/master_432p25.m3u8
 #EXTINF:-1 tvg-name="QVC Style" tvg-id="QVCStyle.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/mastercion/kodi_tv_custom/main/logo/qvc_style.png",QVC Style
-https://fra3-1-dash-live.zahs.tv/qvc_germany/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNZZIUYEIOJSIU2ECRJVG44DELJRGMYTQRRQGI4DMMBRIJBUCNBUEZSHE3J5MV4HA2LSMF2GS33OHIYTOMBRHAZTIMRTGMTG2YLYOJQXIZJ5GE3DAMBGNVUW44TBORST2OBQGATHG2LHHUYTGXZZMUYWGZRUGQZGKZLCGUYDGYZUGVQTIMJRMQ3TCOJTGBRGINRYGETHMPJQ
+https://fra3-3-dash-live.zahs.tv/qvc_germany/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCNZZIUZDMOJRGE3DQNZVGBDDQLJSGE3UMNZRIFCTMQZRGRDDCQ2GEZSHE3J5MV4HA2LSMF2GS33OHIYTOMBRHA3DCNZRGMTG2YLYOJQXIZJ5GE3DAMBGNVUW44TBORST2OBQGATHG2LHHUYTGX3DMM4TCNJYGAYGENZRGMZDKNZYMJTDGZBWGE2DKMJYGQZGMYLDG4THMPJQ
