@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="QVC Zwei" tvg-id="QVCZwei.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/mastercion/kodi_tv_custom/main/logo/Logo_QVC2_DE_onAir_2020.png",QVC Zwei
-https://fra3-5-dash-live.zahs.tv/qvcplus/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCN2BGM4ECRRSIVBTIMBSGRBEKLJWHAZDMRJQG44EERJQHA4DANJUEZSHE3J5MV4HA2LSMF2GS33OHIYTOMBTGM3TSNBWGATG2YLYOJQXIZJ5GE3DAMBGNVUW44TBORST2OBQGATHG2LHHU4V6ZLBHAZDGMBUGVTDCZBZMQ4TKMLBGU4TINTGMM4WIYJTGA4DON3EEZ3D2MA
+https://fra3-4-dash-live.zahs.tv/qvcplus/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCN2BGM4EGRRSGE2DERBSHE3TOLJVIUZDAMZSGQ2DGMKBGE4DGMJYEZSHE3J5MV4HA2LSMF2GS33OHIYTOMBTGM4DCNRVGUTG2YLYOJQXIZJ5GE3DAMBGNVUW44TBORST2OBQGATHG2LHHU4V6ZRVGEYTAZJVMNRTGMJVMI2TEYZWHAYDAZJUMYYDAYLBMNSTSMTFEZ3D2MA
 #EXTINF:-1 tvg-name="hse24" tvg-id="hse.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/mastercion/kodi_tv_custom/main/logo/HSE_TV_Logo.png",hse24
 https://hse24.akamaized.net/hls/live/2006663/hse24/master_576p25.m3u8
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
@@ -16,4 +16,4 @@ https://fra3-5-dash-live.zahs.tv/qvc_germany/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBM
 #EXTINF:-1 tvg-name="HSE Trend" tvg-id="hseTrend.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/mastercion/kodi_tv_custom/main/logo/HSE_TV_Trend_Logo.png",HSE Trend
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/master_432p25.m3u8
 #EXTINF:-1 tvg-name="QVC Style" tvg-id="QVCStyle.de" group-title="Teleshopping" tvg-logo="https://raw.githubusercontent.com/mastercion/kodi_tv_custom/main/logo/qvc_style.png",QVC Style
-https://fra3-1-dash-live.zahs.tv/qvc_beauty_de/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCN2BGM4ECRKDGRBDSMJQGFCTMLJTIZAUEQKEIE3UMNBYIJCDSRBREZSHE3J5MV4HA2LSMF2GS33OHIYTOMBTGM3TSNBTGETG2YLYOJQXIZJ5GE3DAMBGNVUW44TBORST2OBQGATHG2LHHUYTKXZZMRSWKNTBHFRTOZLGMM4DAYJQGMZWCMZTG5STKOJSGY2DMNJRG4THMPJQ
+https://fra3-0-dash-live.zahs.tv/qvc_beauty_de/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCN2BGM4EGRKFGEYDQNCCHA2DOLKCG4ZDIQJZHE3UCQKEGY4EKRJGMRZG2PLFPBYGS4TBORUW63R2GE3TAMZTHAYTMMZYEZWWC6DSMF2GKPJRGYYDAJTNNFXHEYLUMU6TQMBQEZZWSZZ5GE2V6N3BGBRTOOBSMJRGGM3BMMZDIZRWMI4TANBRHFRGEYJYHFRGEYRQEZ3D2MA
